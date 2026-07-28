@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="28" fill="#c8f400"/>
+  <!-- Shopping Bag Handle -->
+  <path d="M35 38 V30 C35 21.7 41.7 15 50 15 C58.3 15 65 21.7 65 30 V38" fill="none" stroke="#0d0d0d" stroke-width="8" stroke-linecap="round"/>
+  <!-- Shopping Bag Body -->
+  <path d="M24 38 H76 L70 82 C69.5 85.5 66.5 88 63 88 H37 C33.5 88 30.5 85.5 30 82 L24 38 Z" fill="#0d0d0d"/>
+</svg>

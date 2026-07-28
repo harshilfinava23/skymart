@@ -14,23 +14,8 @@
     <a href="https://skymart-ecom.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-skymart--ecom.vercel.app-c8f400?style=for-the-badge&logo=vercel&logoColor=0d0d0d&labelColor=111111" alt="Live Demo Website" />
     </a>
-    <a href="https://github.com/harshilfinava23/skymart/stargazers">
-      <img src="https://img.shields.io/github/stars/harshilfinava23/skymart?style=for-the-badge&color=c8f400&logoColor=0d0d0d&labelColor=111111" alt="GitHub Stars" />
-    </a>
-    <a href="https://github.com/harshilfinava23/skymart/network/members">
-      <img src="https://img.shields.io/github/forks/harshilfinava23/skymart?style=for-the-badge&color=c8f400&logoColor=0d0d0d&labelColor=111111" alt="GitHub Forks" />
-    </a>
-    <a href="https://github.com/harshilfinava23/skymart/issues">
-      <img src="https://img.shields.io/github/issues/harshilfinava23/skymart?style=for-the-badge&color=c8f400&logoColor=0d0d0d&labelColor=111111" alt="GitHub Issues" />
-    </a>
-    <a href="https://github.com/harshilfinava23/skymart/blob/main/LICENSE">
-      <img src="https://img.shields.io/badge/License-MIT-c8f400?style=for-the-badge&logoColor=0d0d0d&labelColor=111111" alt="License" />
-    </a>
   </p>
 
-  <p align="center">
-    🚀 <a href="https://skymart-ecom.vercel.app" target="_blank"><b>LIVE DEMO: https://skymart-ecom.vercel.app</b></a> 🚀
-  </p>
 
   <p align="center">
     <a href="#-key-features">Key Features</a> •
@@ -42,6 +27,7 @@
 
   ---
 </div>
+
 
 ## 🌟 Overview
 
@@ -146,25 +132,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed (v18 or higher recom
    ```
    Open your browser and navigate to `http://localhost:5173`
 
-4. **Build for Production**
-   ```bash
-   npm run build
-   ```
-
----
-
-## 🌐 Deployment
-
-This project is deployed on [Vercel](https://vercel.com) at [https://skymart-ecom.vercel.app](https://skymart-ecom.vercel.app).
-
-A custom `vercel.json` file is included to handle client-side SPA routing:
-
-```json
-{
-  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
-}
-```
-
 ---
 
 ## 👨‍💻 Author
@@ -183,8 +150,3 @@ A custom `vercel.json` file is included to handle client-side SPA routing:
 </div>
 
 ---
-
-<div align="center">
-  <p>⭐ <b>If you like this project, please consider giving it a star on GitHub!</b> ⭐</p>
-  <p>Crafted with ❤️ by <a href="https://github.com/harshilfinava23">Harshil Finava</a></p>
-</div>
