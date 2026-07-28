@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header Banner -->
-  <a href="https://github.com/harshilfinava23/skymart">
+  <a href="https://skymart-ecom.vercel.app" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=40&duration=3000&pause=1000&color=C8F400&center=true&vCenter=true&width=700&height=70&lines=SkyMart+%E2%9A%A1+Gen-Z+E-Commerce;Next-Gen+Shopping+Experience;Obsidian+Dark+%2B+Neon+Volt+UI" alt="SkyMart Header Typing Banner" />
   </a>
 
@@ -9,8 +9,11 @@
     <b>A high-performance, ultra-sleek Gen-Z E-Commerce platform built with React 19, Vite, and Tailwind CSS.</b>
   </p>
 
-  <!-- Badges -->
+  <!-- PROMINENT LIVE DEMO BADGE RIGHT AT START -->
   <p align="center">
+    <a href="https://skymart-ecom.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-skymart--ecom.vercel.app-c8f400?style=for-the-badge&logo=vercel&logoColor=0d0d0d&labelColor=111111" alt="Live Demo Website" />
+    </a>
     <a href="https://github.com/harshilfinava23/skymart/stargazers">
       <img src="https://img.shields.io/github/stars/harshilfinava23/skymart?style=for-the-badge&color=c8f400&logoColor=0d0d0d&labelColor=111111" alt="GitHub Stars" />
     </a>
@@ -23,6 +26,10 @@
     <a href="https://github.com/harshilfinava23/skymart/blob/main/LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-c8f400?style=for-the-badge&logoColor=0d0d0d&labelColor=111111" alt="License" />
     </a>
+  </p>
+
+  <p align="center">
+    🚀 <a href="https://skymart-ecom.vercel.app" target="_blank"><b>LIVE DEMO: https://skymart-ecom.vercel.app</b></a> 🚀
   </p>
 
   <p align="center">
@@ -41,6 +48,8 @@
 **SkyMart** is a state-of-the-art e-commerce application designed specifically for modern dynamic users. Featuring a deep obsidian canvas (`#0d0d0d`), elevated glassmorphic panels, Electric Neon Volt highlights (`#c8f400`), and premium typography powered by Google Fonts (`Outfit` & `Inter`).
 
 It provides a complete end-to-end shopping experience—from authentication and user profile management to real-time search, catalog filtering, interactive cart state, and wishlist persistence.
+
+🔗 **Live Application URL:** [https://skymart-ecom.vercel.app](https://skymart-ecom.vercel.app)
 
 ---
 
@@ -146,7 +155,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed (v18 or higher recom
 
 ## 🌐 Deployment
 
-This project is optimized for instant deployment on [Vercel](https://vercel.com).
+This project is deployed on [Vercel](https://vercel.com) at [https://skymart-ecom.vercel.app](https://skymart-ecom.vercel.app).
 
 A custom `vercel.json` file is included to handle client-side SPA routing:
 
